@@ -86,12 +86,16 @@ Se desarrollo un Dashboard interactivo en PowerBi compuesto por 4 partes:
     • Exploración espacial: Mapas de contenedores y puntos críticos
 
 
-## Potencial resultado
+## Resultado
 
-El resultado final del proyecto será un dashboard interactivo en PowerBI que permita visualizar la relación entre la demanda y la capacidad del sistema de aseo en Bogotá, identificar zonas críticas y proporcionar una herramienta de análisis que facilite la toma de decisiones futuras.
+El resultado final del proyecto consiste en un dashboard interactivo en PowerBI que permita visualizar la relación entre la demanda del servicio y la capacidad del sistema de aseo en Bogotá. Esta herramientas facilita
+ 
+    La identificación de localidades con mayor presión del sistema
+    La identificación de posibles desbalances en la distribución de los recursos
+    Una exploración espacial de puntos críticos y contenedores
 
 Adicionalmente, se entregará un repositorio en GitHub con todos los datos y documentos que respaldan el proyecto. Garantizando un trabajo transparente y reproducible.
-
+El proyecto no busca tomar decisiones directamente, sino proporcionar una base analítica que permita comprender mejor el funcionamiento del sistema y apoyar futuros proyectos de mejora.
 
 ## Documentos de respaldo
 - [Datos Limpios](https://github.com/dayanacr2008-lab/expoandes/tree/main/Data%20Clean)
