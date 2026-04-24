@@ -102,7 +102,7 @@ El proyecto no busca tomar decisiones directamente, sino proporcionar una base a
  [![Power BI](https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
  ## Hallazgos
- A partir del POWERBI se puede identificar que: 
+ A partir del PowerBi se puede identificar que: 
 
     1) La demanda del sistema de aseo no es uniforme entre localidades, se puede observar que existen diferencias significativas en PQRS, Contenedores y puntos críticos entre localidades. 
     2) En Bogotá 10 de las 20 localidades cuentan con alta presión en el sistema, es decir la demanda (PQRS y puntos críticos) supera la capacidad disponible (contenedores), lo que sugiere posibles desbalances en la distribución del servicio.
