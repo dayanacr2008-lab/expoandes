@@ -105,9 +105,13 @@ El proyecto no busca tomar decisiones directamente, sino proporcionar una base a
  A partir del PowerBi se puede identificar que: 
 
     1) La demanda del sistema de aseo no es uniforme entre localidades, se puede observar que existen diferencias significativas en PQRS, Contenedores y puntos críticos entre localidades. 
-    2) En Bogotá 10 de las 20 localidades cuentan con alta presión en el sistema, es decir la demanda (PQRS y puntos críticos) supera la capacidad disponible (contenedores), lo que sugiere posibles desbalances en la distribución del servicio.
-    3) Algunas localidades presentan altos niveles de demanda, pero también cuentan con una mayor capacidad instalada, por ejemplo Engativa, lo que reduce su presión relativa dentro del sistema.
-    4) Hay zonas específicas donde la acumulación de puntos críticos y la baja disponibilidad de contenedores coinciden, lo que puede indicar áreas prioritarias para intervención.
+    2) En promedio el sistema presenta un nivel muy alto de presión, de acuerdo al PowerBi, en índice promedio es 38.
+    3) En Bogotá 10 de las 20 localidades cuentan con alta presión en el sistema, es decir la demanda (PQRS y puntos críticos) supera la capacidad disponible (contenedores), lo que sugiere posibles desbalances en la distribución del servicio.
+    4) La localidad más crítica es Chapinero, con 6529 PQRS y 60 contenedores. 
+    5) Algunas localidades presentan altos niveles de demanda, pero también cuentan con una mayor capacidad instalada, por ejemplo Engativa cuenta con la mayor cantidad de puntos críticos y de PQRS, pero también es la Localidad con la mayor cantidad de contenedores, lo que reduce su presión relativa dentro del sistema.
+    6) Hay zonas específicas donde la acumulación de puntos críticos y la baja disponibilidad de contenedores coinciden, lo que puede indicar áreas prioritarias para intervención.
+    
+    
 
 Estos hallazgos sugieren que el sistema de aseo en Bogotá no responde de manera completamente proporcional a la demanda en todas las localidades. Si bien algunas zonas cuentan con una capacidad adecuada para su demanda, otras presentan una presión elevada, lo que evidencia posibles desigualdades en la distribución de recursos o en la planificación de rutas.
 
