@@ -99,7 +99,7 @@ El proyecto no busca tomar decisiones directamente, sino proporcionar una base a
 
 📁 Descargar Dashboard en Power BI
 
- [![Power BI](https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+ [![Power BI](https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/dayanacr2008-lab/expoandes/tree/main/Resultados)
 
  ## Hallazgos
  A partir del PowerBi se puede identificar que: 
