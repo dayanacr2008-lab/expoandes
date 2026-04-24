@@ -60,6 +60,11 @@ El resultado final del proyecto será un dashboard interactivo en PowerBI que pe
 
 Adicionalmente, se entregará un repositorio en GitHub con todos los datos y documentos que respaldan el proyecto. Garantizando un trabajo transparente y reproducible.
 
+
+## Documentos de respaldo
+- [Data_clean](https://github.com/nataliarf23/Proyecto-Expoandes.git)
+
+
 ## Authors
 
 - [@nataliarf23](https://github.com/nataliarf23)
