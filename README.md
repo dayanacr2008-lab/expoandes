@@ -94,7 +94,7 @@ Adicionalmente, se entregará un repositorio en GitHub con todos los datos y doc
 
 
 ## Documentos de respaldo
-- [Datos Limpios](https://github.com/dayanacr2008-lab/expoandes/blob/main/Data%20Clean/Datos.xlsx)
+- [Datos Limpios](https://github.com/dayanacr2008-lab/expoandes/tree/main/Data%20Clean)
 - [Datos originales](https://github.com/dayanacr2008-lab/expoandes/tree/main/Data%20raw)
 
 
