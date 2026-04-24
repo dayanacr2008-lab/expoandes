@@ -94,7 +94,8 @@ Adicionalmente, se entregará un repositorio en GitHub con todos los datos y doc
 
 
 ## Documentos de respaldo
-- [Data_clean](https://github.com/nataliarf23/Proyecto-Expoandes.git)
+- [Datos Limpios](https://github.com/dayanacr2008-lab/expoandes/blob/main/Data%20Clean/Datos.xlsx)
+- [Datos originales](https://github.com/dayanacr2008-lab/expoandes/tree/main/Data%20raw)
 
 
 ## Authors
